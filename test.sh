@@ -1,5 +1,2 @@
-public class Main {
-  public static void main(String[] D
-    System.out.println("Wellcome")
-  }
-}
+#!/bin/bash
+echo "This is gonna work or long weekend coming"
